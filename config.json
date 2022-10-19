@@ -1,0 +1,18 @@
+{
+	"firebaseConfig": {
+		"apiKey": "yourapikey",
+		"authDomain": "domain.firebaseapp.com",
+		"databaseURL": "https://domain-default-rtdb.firebaseio.com",
+		"projectId": "projectid",
+		"storageBucket": "storageBucket",
+		"messagingSenderId": "525974862",
+		"appId": "1:appid:web:*********",
+		"measurementId": "G-*********"
+	},
+	"collection": "RPI-1",
+	"storageBucket": "RPI-1"
+}
+
+
+
+
